@@ -30,7 +30,7 @@ Inside the *PasswordGenerator\bin\Debug\net6.0-windows* folder run **PasswordGen
 ## Support
 
 For support, email leandrom4rchini@outlook.com.br.
-## Stack utilizada
+## Used Stack
 
 **Back-end:** .Net CORE
 
