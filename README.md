@@ -25,7 +25,7 @@ Software developed to generate more secure passwords in a quick and simple way.
 
 Download the project by clicking on code and Download ZIP.
 
-![Download](https://i.imgur.com/JgYaXfV.png)
+![Download](https://i.imgur.com/JgYaXfV.png)</br>
 Inside the *PasswordGenerator\bin\Debug\net6.0-windows* folder run **PasswordGenerator.exe**
 ## Support
 
